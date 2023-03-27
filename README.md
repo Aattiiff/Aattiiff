@@ -7,8 +7,8 @@ Full Stack Developer
 As a full stack developer, I have a comprehensive understanding of the web development process, from the user interface to the server-side logic. I have experience working with a variety of front-end and back-end technologies, allowing me to design, develop and maintain web applications from start to finish.
 
 
-* 🖥️  Checkout my  [Upwork](http://https://www.upwork.com/freelancers/~01363affe3836d4bdb/) Profile, <h2 style= "color: blue;">Top Rated Plus</h2> 
-* ✉️  You can contact me at [contact@findusman.com](mailto:contact@findusman.com)
+* 🖥️  Checkout my  [Upwork](https://www.upwork.com/freelancers/~01b19cf9e7ac623a37> 
+* ✉️  You can contact me at [atif@findatif.me](mailto:contact@findusman.com)
 * 🧠  I'm learning Everything
 * 🤝  I'm open to collaborating on Interestring Projects
 
