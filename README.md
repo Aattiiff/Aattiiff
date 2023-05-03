@@ -1,10 +1,58 @@
 Hi 👋 My name is Muhammad Atif
 ==============================
 
-Full Stack Developer
+Data Extraction Expert
 --------------------
 
-As a full stack developer, I have a comprehensive understanding of the web development process, from the user interface to the server-side logic. I have experience working with a variety of front-end and back-end technologies, allowing me to design, develop and maintain web applications from start to finish.
+As a Data Extraction Expert, I specialize in leveraging various data mining techniques, web scraping tools, and software to extract data from diverse sources. I help clients transform their big ideas into actionable insights by extracting and analyzing relevant data.
+
+My proficiency extends to a range of programming languages and tools such as Python and its libraries for data extraction (like Beautiful Soup, Scrapy, etc.), JavaScript, and other data extraction tools. My experience ranges from small-scale data extraction tasks to large-scale web scraping projects, dealing with complex data structures, and data cleaning.
+
+Having worked on numerous projects, I have developed a strong understanding of data structures, databases, and ETL (Extract, Transform, Load) processes. I'm well-versed in dealing with APIs and have a deep understanding of HTML, CSS, and XPath, which are crucial for effective web scraping.
+
+On Upwork, here are my key achievements:
+
+➞ $400,000+ Earned
+➞ 10,000+ Hours
+➞ 280+ Projects
+➞ 500+ Data Extraction & Analysis Tasks Completed
+➞ Among Top 10% on Upwork
+➞ Excellent Upwork History
+
+Technologies & Tools I work with:
+
+✔️ Python (Beautiful Soup, Scrapy)
+✔️ JavaScript
+✔️ HTML/CSS, XPath
+✔️ Database Management (SQL, MongoDB, etc.)
+✔️ Data Cleaning and Analysis tools
+✔️ AWS, Azure, GGS, Docker, Serverless, microservices, cloud infrastructure
+✔️ CI/CD pipeline, Git, BitBucket
+✔️ System Administration, AWS, DigitalOcean, Docker
+
+My services include:
+
+✔️ Data Extraction and Web Scraping
+✔️ Data Cleaning and Analysis
+✔️ Database Management
+✔️ Data Migration, Custom Dynamic Import/export across different databases
+✔️ API and Third-Party Integrations
+✔️ ERP, CMS, POS, CRM, eCommerce, dashboards, and other data-related web apps development
+✔️ Serverless Development in AWS, Azure, GCP, etc.
+
+Also, I offer:
+
+✔️ 24/7 Availability
+✔️ Free first-month support
+✔️ TeamViewer support, virtual server, any desk
+✔️ Efficient coding & debugging skills
+✔️ Time & cost-effective solutions
+✔️ 100% work satisfaction
+
+Thanks,
+Atif
+
+<!-- As a full stack developer, I have a comprehensive understanding of the web development process, from the user interface to the server-side logic. I have experience working with a variety of front-end and back-end technologies, allowing me to design, develop and maintain web applications from start to finish.
 
 
 * 🖥️  Checkout my  [Upwork](https://www.upwork.com/freelancers/~01b19cf9e7ac623a37> 
@@ -45,5 +93,5 @@ As a full stack developer, I have a comprehensive understanding of the web devel
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-</p>
+</p> -->
 
