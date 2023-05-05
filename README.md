@@ -4,43 +4,27 @@ Hi 👋 My name is Muhammad Atif
 Data Extraction Expert
 --------------------
 
-As a Data Extraction Expert, I specialize in leveraging various data mining techniques, web scraping tools, and software to extract data from diverse sources. I help clients transform their big ideas into actionable insights by extracting and analyzing relevant data.
+I bring instant results and give life to your ideas with me. Let's Talk
 
-My proficiency extends to a range of programming languages and tools such as Python and its libraries for data extraction (like Beautiful Soup, Scrapy, etc.), JavaScript, and other data extraction tools. My experience ranges from small-scale data extraction tasks to large-scale web scraping projects, dealing with complex data structures, and data cleaning.
+As a specialized WordPress developer & Data Extraction Developer, I am an expert in managing all aspects of WordPress development, from designing using Elementor, and implementing front-end interfaces.
 
-Having worked on numerous projects, I have developed a strong understanding of data structures, databases, and ETL (Extract, Transform, Load) processes. I'm well-versed in dealing with APIs and have a deep understanding of HTML, CSS, and XPath, which are crucial for effective web scraping.
+I can install WordPress themes, install plugins, setup WordPress, design pages using Elementor, etc.
 
-On Upwork, here are my key achievements:
+I am also skilled in Data Extraction, Manual Extraction, Data Extraction From PDF to Excel, and Image To Excel.
+
+
+As a WordPress developer, I am adept at transforming a project idea into a fully deployed WordPress website. My experience spans developing WordPress themes and plugins, crafting responsive and user-friendly interfaces, and optimizing website performance. I have executed projects across various sectors, such as e-commerce, healthcare, education, AI, ERP, CRM, CMS, and more.
+
+On Upwork, I am proud to share my achievements:
 
 ➞ $400,000+ Earned
 ➞ 10,000+ Hours
 ➞ 280+ Projects
-➞ 500+ Data Extraction & Analysis Tasks Completed
+➞ 500+ WordPress Websites Developed
 ➞ Among Top 10% on Upwork
 ➞ Excellent Upwork History
 
-Technologies & Tools I work with:
-
-✔️ Python (Beautiful Soup, Scrapy)
-✔️ JavaScript
-✔️ HTML/CSS, XPath
-✔️ Database Management (SQL, MongoDB, etc.)
-✔️ Data Cleaning and Analysis tools
-✔️ AWS, Azure, GGS, Docker, Serverless, microservices, cloud infrastructure
-✔️ CI/CD pipeline, Git, BitBucket
-✔️ System Administration, AWS, DigitalOcean, Docker
-
-My services include:
-
-✔️ Data Extraction and Web Scraping
-✔️ Data Cleaning and Analysis
-✔️ Database Management
-✔️ Data Migration, Custom Dynamic Import/export across different databases
-✔️ API and Third-Party Integrations
-✔️ ERP, CMS, POS, CRM, eCommerce, dashboards, and other data-related web apps development
-✔️ Serverless Development in AWS, Azure, GCP, etc.
-
-Also, I offer:
+Additionally, I offer:
 
 ✔️ 24/7 Availability
 ✔️ Free first-month support
@@ -49,7 +33,7 @@ Also, I offer:
 ✔️ Time & cost-effective solutions
 ✔️ 100% work satisfaction
 
-Thanks,
+Thank,
 Atif
 
 <!-- As a full stack developer, I have a comprehensive understanding of the web development process, from the user interface to the server-side logic. I have experience working with a variety of front-end and back-end technologies, allowing me to design, develop and maintain web applications from start to finish.
